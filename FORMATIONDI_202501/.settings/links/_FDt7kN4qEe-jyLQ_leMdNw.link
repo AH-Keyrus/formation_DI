@@ -1,0 +1,25 @@
+{
+  "itemId" : "_FDt7kN4qEe-jyLQ_leMdNw",
+  "contextList" : [ {
+    "contextName" : "PROD",
+    "repoId" : "_Ke4-QN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_KfKEA94_Ee-jyLQ_leMdNw",
+      "name" : "directory"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_Ke4-QN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_KfKEAd4_Ee-jyLQ_leMdNw",
+      "name" : "directory"
+    } ]
+  }, {
+    "contextName" : "QUA",
+    "repoId" : "_Ke4-QN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_KfKEBd4_Ee-jyLQ_leMdNw",
+      "name" : "directory"
+    } ]
+  } ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_3GGvMN4_Ee-jyLQ_leMdNw" confirmationNeeded="false" hide="false" name="DEV">
+    <contextParameter xmi:id="_3GGvMd4_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_jdbcClass" prompt="BDD_Cible_jdbcClass?" promptNeeded="false" repositoryContextId="" type="id_String" value="org.h2.Driver"/>
+    <contextParameter xmi:id="_3GGvMt4_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_userId" prompt="BDD_Cible_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="sa"/>
+    <contextParameter xmi:id="_3GGvM94_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_jdbcUrl" prompt="BDD_Cible_jdbcUrl?" promptNeeded="false" repositoryContextId="" type="id_String" value="jdbc:h2:tcp://localhost/./../database/cible.h2"/>
+    <contextParameter xmi:id="_3GGvNN4_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_password" prompt="BDD_Cible_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_3GGvNd4_Ee-jyLQ_leMdNw" confirmationNeeded="false" hide="false" name="PROD">
+    <contextParameter xmi:id="_3GGvNt4_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_jdbcClass" prompt="BDD_Cible_jdbcClass?" promptNeeded="false" repositoryContextId="" type="id_String" value="org.h2.Driver"/>
+    <contextParameter xmi:id="_3GGvN94_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_userId" prompt="BDD_Cible_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="sa"/>
+    <contextParameter xmi:id="_3GGvON4_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_jdbcUrl" prompt="BDD_Cible_jdbcUrl?" promptNeeded="false" repositoryContextId="" type="id_String" value="jdbc:h2:tcp://localhost/./../database/cible.h2"/>
+    <contextParameter xmi:id="_3GGvOd4_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_password" prompt="BDD_Cible_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_3GGvOt4_Ee-jyLQ_leMdNw" confirmationNeeded="false" hide="false" name="QUA">
+    <contextParameter xmi:id="_3GGvO94_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_jdbcClass" prompt="BDD_Cible_jdbcClass?" promptNeeded="false" repositoryContextId="" type="id_String" value="org.h2.Driver"/>
+    <contextParameter xmi:id="_3GGvPN4_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_userId" prompt="BDD_Cible_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="sa"/>
+    <contextParameter xmi:id="_3GGvPd4_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_jdbcUrl" prompt="BDD_Cible_jdbcUrl?" promptNeeded="false" repositoryContextId="" type="id_String" value="jdbc:h2:tcp://localhost/./../database/cible.h2"/>
+    <contextParameter xmi:id="_3GGvPt4_Ee-jyLQ_leMdNw" comment="" name="BDD_Cible_password" prompt="BDD_Cible_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

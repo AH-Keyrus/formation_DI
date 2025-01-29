@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_KfKEAN4_Ee-jyLQ_leMdNw" confirmationNeeded="false" hide="false" name="DEV">
+    <contextParameter xmi:id="_KfKEAd4_Ee-jyLQ_leMdNw" comment="" name="directory" prompt="directory?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/KEYRUS/5-FORMATION/Talend_Editor_TOS/PackageFormationTOS/fichiers/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_KfKEAt4_Ee-jyLQ_leMdNw" confirmationNeeded="false" hide="false" name="PROD">
+    <contextParameter xmi:id="_KfKEA94_Ee-jyLQ_leMdNw" comment="" name="directory" prompt="directory?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/KEYRUS/5-FORMATION/Talend_Editor_TOS/PackageFormationTOS/fichiers/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_KfKEBN4_Ee-jyLQ_leMdNw" confirmationNeeded="false" hide="false" name="QUA">
+    <contextParameter xmi:id="_KfKEBd4_Ee-jyLQ_leMdNw" comment="" name="directory" prompt="directory?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/KEYRUS/5-FORMATION/Talend_Editor_TOS/PackageFormationTOS/fichiers/"/>
+  </talendfile:ContextType>
+</xmi:XMI>

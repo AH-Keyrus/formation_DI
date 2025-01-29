@@ -1,0 +1,73 @@
+{
+  "itemId" : "_95qswN2GEe-jyLQ_leMdNw",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_Ke4-QN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_KfKEAd4_Ee-jyLQ_leMdNw",
+      "name" : "directory"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_3F0bUN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_3GGvM94_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_jdbcUrl"
+    }, {
+      "id" : "_3GGvNN4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_password"
+    }, {
+      "id" : "_3GGvMt4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_userId"
+    }, {
+      "id" : "_3GGvMd4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_jdbcClass"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_Ke4-QN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_KfKEA94_Ee-jyLQ_leMdNw",
+      "name" : "directory"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_3F0bUN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_3GGvON4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_jdbcUrl"
+    }, {
+      "id" : "_3GGvOd4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_password"
+    }, {
+      "id" : "_3GGvN94_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_userId"
+    }, {
+      "id" : "_3GGvNt4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_jdbcClass"
+    } ]
+  }, {
+    "contextName" : "QUA",
+    "repoId" : "_Ke4-QN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_KfKEBd4_Ee-jyLQ_leMdNw",
+      "name" : "directory"
+    } ]
+  }, {
+    "contextName" : "QUA",
+    "repoId" : "_3F0bUN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_3GGvPd4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_jdbcUrl"
+    }, {
+      "id" : "_3GGvPt4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_password"
+    }, {
+      "id" : "_3GGvPN4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_userId"
+    }, {
+      "id" : "_3GGvO94_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_jdbcClass"
+    } ]
+  } ]
+}

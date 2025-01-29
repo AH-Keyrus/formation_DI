@@ -1,0 +1,20 @@
+{
+  "itemId" : "_jr_QAN1nEe-jyLQ_leMdNw",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_3F0bUN4_Ee-jyLQ_leMdNw",
+    "parameterList" : [ {
+      "id" : "_3GGvMd4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_jdbcClass"
+    }, {
+      "id" : "_3GGvMt4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_userId"
+    }, {
+      "id" : "_3GGvM94_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_jdbcUrl"
+    }, {
+      "id" : "_3GGvNN4_Ee-jyLQ_leMdNw",
+      "name" : "BDD_Cible_password"
+    } ]
+  } ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_dzLkYN15Ee-jyLQ_leMdNw" name="SalesOrg" dataPackage="_dzLkYd15Ee-jyLQ_leMdNw" Server="Localhost 127.0.0.1" FilePath="C:/KEYRUS/5-FORMATION/Talend_Editor_TOS/PackageFormationTOS/fichiers/sales_org.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_dzLkYd15Ee-jyLQ_leMdNw" name="default" dataManager="_dzLkYN15Ee-jyLQ_leMdNw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_dzLkYt15Ee-jyLQ_leMdNw" id="_oHBBIN14Ee-jyLQ_leMdNw" label="salesorg">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dzLkY915Ee-jyLQ_leMdNw" label="SalesOffice" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dzLkZN15Ee-jyLQ_leMdNw" label="Region" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dzLkZd15Ee-jyLQ_leMdNw" label="DateOpen" length="-1" talendType="id_Date" pattern="&quot;ddMMyyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dzLkZt15Ee-jyLQ_leMdNw" label="Country" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
